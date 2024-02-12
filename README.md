@@ -8,7 +8,7 @@
             Stack<br><br>
         </em>
 
-  <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Murilo">
+  <img src="https://img.shields.io/static/v1?label=Author&message=Murilo&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Murilo">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Language: React">
