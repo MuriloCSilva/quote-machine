@@ -5,7 +5,7 @@
 <div>
     <p align="center">
         <em>
-            Tecnologias usadas<br><br>
+            Stack<br><br>
         </em>
 
   <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Murilo">
@@ -29,7 +29,7 @@ freeCodeCamp's Front End Libraries Projects
 
 
 # Images
-![Home Page](blob:https://imgur.com/2f0f2340-2c19-4400-9155-fab22006067b)
+![Home Page](https://i.imgur.com/XMG6O15.png)
 
 # Live Demo
 https://murilocsilva.github.io/quote-machine/
