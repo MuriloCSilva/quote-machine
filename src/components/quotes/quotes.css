@@ -1,0 +1,102 @@
+.quote .author {
+    transition: .5s ease-in-out;
+}
+
+.quotes-handler {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.by-author {
+    color: white;
+    text-align: center;
+}
+
+.quotes-container {
+    background-color: #ffffff;
+    border-radius: 0.2rem;
+    padding: 2rem;
+    width: 28rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem 0;
+}
+
+.quote {
+    font-size: 2.4rem;
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+.author {
+    text-align: right;
+}
+
+.quotes-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.socials-links {
+    display: flex;
+    gap: 0 1rem;
+}
+
+.link-button {
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.link-button:hover {
+    opacity: 90%;
+}
+
+.new-quote-button {
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    padding: 0 1rem;
+    border-radius: 0.2rem;
+}
+
+.new-quote-button:hover {
+    cursor: pointer;
+    opacity: 90%;
+}
+
+@media only screen and (max-width: 530px) {
+    .quotes-container {
+        width: 20rem;
+    }
+
+    .quote {
+        font-size: 1.8rem;
+    }
+
+    .quotes-footer {
+        flex-direction: column;
+        gap: 1rem 0;
+    }
+
+    .socials-links {
+        justify-content: space-between;
+    }
+
+    .new-quote-button {
+        padding: 1rem;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    .quotes-container {
+        width: 15rem;
+    }
+}
